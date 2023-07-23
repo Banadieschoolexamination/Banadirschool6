@@ -69,8 +69,8 @@
     </style>
     <body>
         
-        <H3> Hassan Mohamed Yusuf</H3>
-        <H3> ID: 003</H3>
+        <H3> Ilhan Nor Abdullahi</H3>
+        <H3> ID: 0017</H3>
        
         <hr>
         <table>
@@ -82,38 +82,44 @@
                 
 
             </tr>
-            <td> Window</td>
-            <td> 100</td>
-            <td> A+</td>
-            <td> Computer</td>
+            <td> First Aid</td>
+            <td> 92</td>
+            <td> A</td>
+            <td> CAAFIMAAD</td>
             <tr>
 
            
         </tr>
-        <td> Word</td>
-        <td> 95</td>
-        <td> B</td>
-        <td> Computer</td>
+        <td> CDC</td>
+        <td> 61</td>
+        <td> D</td>
+        <td> CAAFIMAAD</td>
         <tr>
 
        
     </tr>
-    <td> Excel</td>
+    <td> ANATOMY</td>
     <td> 90</td>
-    <td> C</td>
-    <td> Computer</td>
+    <td> A</td>
+    <td> CAAFIMAAD</td>
     <tr>
 
 </tr>
-<td> Powerpoint</td>
-<td> 80</td>
+<td> PHYSIOLOGY</td>
+<td> 95</td>
 <td> A+</td>
-<td> Computer</td>
+<td> CAAFIMAAD</td>
 <tr>
 </tr>
-<td> Basic Security</td>
+<td> PHARMACOLOGY</td>
 <td> 85</td>
 <td> C</td>
-<td> Computer</td>
+<td> CAAFIMAAD</td>
 <tr>
 
+</tr>
+<td> NUTRITION</td>
+<td> 85</td>
+<td> C</td>
+<td> CAAFIMAAD</td>
+<tr>
